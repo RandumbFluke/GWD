@@ -1,0 +1,41 @@
+
+
+Bike Share Personas
+
+https://www.figma.com/file/PCJpL8BY2KnKJDJBpTimkl/BikeShare-Personas?node-id=0%3A1
+
+==========
+
+Bikeshare price list
+
+Some options: can put it in whatever currency you like, doesn't have to be converted, this is Canadian Dollars but it doesn't matter much for this project. 
+
+=====================================
+
+$3.25 Single Trip (One-way trip) 
+$7 Day Pass (24-hour access)
+$15 3-Day Pass (72-hour access)
+
+OVERAGE FEES: $4 FOR EVERY EXTRA 30 MINUTES.
+=====================================
+
+ANNUAL 30 MEMBERSHIP $99 
+LESS THAN $10 A MONTH
+ 
+Join as an Annual 30 Member for only $99 per year. Enjoy multiple 30-minute, station-to-station trips all year round for less than $10 a month or as little as 30¢ a day
+
+*The first 30 minutes of each ride are included in the membership. After 30 minutes extra usage fees apply, see Overage Fees below. 
+
+=====================================
+
+ANNUAL 45 MEMBERSHIP $115
+MORE FLEXIBILITY, MORE RIDE TIME 
+ 
+
+Join as an Annual 45 Member for only $115 per year. Enjoy unlimited 45 minute, station-to-station trips all year round.
+
+*The first 45 minutes of each ride are included in the membership. After 45 minutes extra usage fees apply, see Overage Fees below.
+
+=====================================
+
+information and overage fee table can be found from https://bikesharetoronto.com/pricing/
